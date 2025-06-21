@@ -54,5 +54,6 @@ Please unzip and place them in the working directory to run the notebooks succes
 
 # git clone the repository
 
-# Install dependencies
-pip install -r requirements.txt
+# Install dependencies are in the notebooks
+
+# In the streamlit app you will need to adjust the model you want for the detection

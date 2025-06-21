@@ -21,21 +21,20 @@ Performs **feature engineering**, model training, and evaluation on the processe
 **Models Used:**
 - Random Forest
 - XGBoost
-- LightGBM
-- Logistic Regression  
+- EasyEnsembleClassifier
 **Evaluation Metrics:**
 - Precision, Recall, F1-Score
 - ROC-AUC
 - Confusion Matrix  
 **Includes:**
-- Class balancing with SMOTE
-- SHAP analysis for interpretability
+- Class balancing undersampling and oversampling
+- SHAP analysis for explainability
 
 ### 3. `SecureBank Fraud Detection System_streamlit.ipynb`
 **Purpose:**  
-Implements a **Streamlit-based interactive dashboard** to demonstrate fraud predictions.  
+Implements a **Streamlit-based interactive dashboard** to demonstrate fraud classifications.  
 **Features:**
-- Upload transactions for prediction
+- Upload transactions for classification
 - Visual feedback on fraud probability
 - Integrated with final trained model
 

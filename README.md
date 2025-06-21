@@ -51,9 +51,8 @@ Please unzip and place them in the working directory to run the notebooks succes
 ## 🧪 Setup Instructions
 
 ```bash
-# Create and activate virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate   # or .\venv\Scripts\activate on Windows
+
+# git clone the repository
 
 # Install dependencies
 pip install -r requirements.txt

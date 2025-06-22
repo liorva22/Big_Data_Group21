@@ -48,11 +48,10 @@ Files:
 Please unzip and place them in the working directory to run the notebooks successfully.
 
 ## 🧪 Setup Instructions
+- git clone the repository
+- Add .pkl file of the model you want for the detection
+- Install dependencies are in the notebooks
+- From https://www.kaggle.com/datasets/kartik2112/fraud-detection/data download the two dataset: train and test
+- Upload the test file + .pkl file to run the streamlit notebook 
 
-```bash
 
-# git clone the repository
-
-# Install dependencies are in the notebooks
-
-# In the streamlit app you will need to adjust the model you want for the detection
